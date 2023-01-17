@@ -1,0 +1,44 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Secretary bird",
+      "body": "Maybe she’s born with it? Maybelline could never bring you eyelashes like these. But don’t let their beauty fool you. These birds of prey have an incredibly strong body, with a wingspan of nearly seven feet.",
+      "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064525027694870528/GettyImages-500798387.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Arctic fox",
+      "body": "While you sit and marvel at the Arctic fox’s luscious fur, you should know that it actually serves a greater purpose than just being beautiful. The thickness of the fur helps the fox survive the frigid temperatures and the white color helps it blend in with the snow in order to hide from predators.",
+      "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064525027694870528/GettyImages-500798387.jpg"
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "Mandarinfish",
+        "body": "Mandarinfish are usually found swimming in the Pacific between Japan and Australia, but this picture may be as close as you ever get to these beautiful animals. These fish are stinky. Since Mandarinfish don’t have any scales to protect them from predators, they are protected with poisonous spines and caked in a copious amount of smelly mucus.",
+        "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064525702382239874/GettyImages-1210783486-e1621026829569.jpg"
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "title": "Panther chameleons",
+        "body": "The gorgeous colors on panther chameleons become even more astonishing once you recall that they can change them in an instant. Chameleons change color in order to communicate,",
+        "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064525951611961344/GettyImages-1052199106.jpg"
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "title": "Green-headed tanager",
+        "body": "Look at this beauty! Native to Brazil, green-headed tanagers blend right into the forest environment with their green, blue, and black feathers. They also like to stick with their clique, so you’ll likely see these guys in small groups.",
+        "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064526194281816094/Green-Headed-Tanager.jpg"
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "title": "Glass-winged butterfly",
+        "body": "You can probably see where this butterfly gets its name. The transparent wings allow the glass-winged butterfly to camouflage and protect itself from predators.",
+        "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064526366063730708/Glass-Winged-Butterfly.jpg"
+      }
+]
