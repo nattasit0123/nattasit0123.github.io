@@ -2,43 +2,120 @@
     {
       "userId": 1,
       "id": 1,
-      "title": "Secretary bird",
-      "body": "Maybe she’s born with it? Maybelline could never bring you eyelashes like these. But don’t let their beauty fool you. These birds of prey have an incredibly strong body, with a wingspan of nearly seven feet.",
-      "pic": "https://nattasit0123.github.io/pic/flutter.png"
+      "title": "Javascript",
+      "body": "JavaScript is a high-level programming language that is one of the core technologies of the World Wide Web. It is used as a client-side programming language by 97.8 percent of all websites. JavaScript was originally used only to develop web browsers, but they are now used for server-side website deployments and non-web browser applications as well. ",
+      "pic": "https://nattasit0123.github.io/pic/js.png"
     },
     {
       "userId": 1,
-      "id": 2,
-      "title": "Arctic fox",
-      "body": "While you sit and marvel at the Arctic fox’s luscious fur, you should know that it actually serves a greater purpose than just being beautiful. The thickness of the fur helps the fox survive the frigid temperatures and the white color helps it blend in with the snow in order to hide from predators.",
-      "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064525027694870528/GettyImages-500798387.jpg"
+      "id": 1,
+      "title": "Python",
+      "body": "Python is one of the most popular programming languages today and is easy for beginners to learn because of its readability. It is a free, open-source programming language with extensive support modules and community development, easy integration with web services, user-friendly data structures, and GUI-based desktop applications. It is a popular programming language for machine learning and deep learning applications. ",
+      "pic": "https://nattasit0123.github.io/pic/python.png"
     },
     {
-        "userId": 1,
-        "id": 2,
-        "title": "Mandarinfish",
-        "body": "Mandarinfish are usually found swimming in the Pacific between Japan and Australia, but this picture may be as close as you ever get to these beautiful animals. These fish are stinky. Since Mandarinfish don’t have any scales to protect them from predators, they are protected with poisonous spines and caked in a copious amount of smelly mucus.",
-        "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064525702382239874/GettyImages-1210783486-e1621026829569.jpg"
-      },
-      {
-        "userId": 1,
-        "id": 2,
-        "title": "Panther chameleons",
-        "body": "The gorgeous colors on panther chameleons become even more astonishing once you recall that they can change them in an instant. Chameleons change color in order to communicate,",
-        "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064525951611961344/GettyImages-1052199106.jpg"
-      },
-      {
-        "userId": 1,
-        "id": 2,
-        "title": "Green-headed tanager",
-        "body": "Look at this beauty! Native to Brazil, green-headed tanagers blend right into the forest environment with their green, blue, and black feathers. They also like to stick with their clique, so you’ll likely see these guys in small groups.",
-        "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064526194281816094/Green-Headed-Tanager.jpg"
-      },
-      {
-        "userId": 1,
-        "id": 2,
-        "title": "Glass-winged butterfly",
-        "body": "You can probably see where this butterfly gets its name. The transparent wings allow the glass-winged butterfly to camouflage and protect itself from predators.",
-        "pic": "https://media.discordapp.net/attachments/1064524421106237461/1064526366063730708/Glass-Winged-Butterfly.jpg"
-      }
+      "userId": 1,
+      "id": 1,
+      "title": "GO",
+      "body": "Go was developed by Google in 2007 for APIs and web applications. Go has recently become one of the fastest-growing programming languages due to its simplicity, as well as its ability to handle multicore and networked systems and massive codebases.",
+      "pic": "https://nattasit0123.github.io/pic/go.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Java",
+      "body": "Owned by Oracle Corporation, this general-purpose programming language with its object-oriented structure has become a standard for applications that can be used regardless of platform (e.g., Mac, Windows, Android, iOS, etc.) because of its Write Once, Run Anywhere (WORA) capabilities. As a result, Java is recognized for its portability across platforms, from mainframe data centers to smartphones. Today there are more than 3 billion devices running applications built with Java.",
+      "pic": "https://nattasit0123.github.io/pic/java.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Kotlin",
+      "body": "Kotlin is a general-purpose programming language originally developed and unveiled as Project Kotlin by JetBrains in 2011. The first version was officially released in 2016. It is interoperable with Java and supports functional programming languages.",
+      "pic": "https://nattasit0123.github.io/pic/kotlin.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "PHP",
+      "body": "PHP is an open-source programming language created in 1990. Many web developers find it essential to learn PHP, as this language is used to build more than 80% of websites on the Internet, including notable sites like Facebook and Yahoo.",
+      "pic": "https://nattasit0123.github.io/pic/php.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "C#",
+      "body": "Developed by Microsoft, C# rose to fame in the 2000s for supporting the concepts of object-oriented programming. It is one of the most used programming languages for the .NET framework. Anders Hejlsberg, the creator of C#, says the language is more like C++ than Java.",
+      "pic": "https://nattasit0123.github.io/pic/c-sharp.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Swift",
+      "body": "A few years ago, Swift made the top 10 in the monthly TIOBE Index ranking of popular programming languages. Apple developed Swift in 2014 for Linux and Mac applications. ",
+      "pic": "https://nattasit0123.github.io/pic/swift.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "R",
+      "body": "R is an open-source language that is essentially a different version of the S language. Much of the code that developers write for S runs on R without modification.",
+      "pic": "https://nattasit0123.github.io/pic/r.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Ruby",
+      "body": "If you want to start with a language that is known for being relatively simple to learn, consider Ruby. Developed in the 1990s, it was designed to have a more human-friendly syntax while still being flexible from the standpoint of its object-oriented architecture that supports procedural and functional",
+      "pic": "https://nattasit0123.github.io/pic/ruby.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "C and C++",
+      "body": "C is probably the oldest and popular programming language and is the root of other programming languages such as C#, Java, and JavaScript. C++ is an enhanced version of C. Many developers today skip learning C on its own, while others think learning C first provides a valuable foundation for C++ development. Both languages are widely used in computer science and programming. ",
+      "pic": "https://nattasit0123.github.io/pic/c++.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Matlab",
+      "body": "Matlab is a proprietary programming language owned by MathWorks and originally released in the mid-1980s. It is built specifically for use by scientists and engineers.",
+      "pic": "https://nattasit0123.github.io/pic/matlab.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "TypeScript",
+      "body": "TypeScript is a newcomer to top programming language lists, but it’s making headway. It was developed in 2012 by Microsoft and is a typed version of JavaScript that is well suited for large code bases. TypeScript is used to create JavaScript-based projects with typing in both client-side and server-side development, making useful for catching errors and preventing systemic issues.",
+      "pic": "https://nattasit0123.github.io/pic/typescript.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Scala",
+      "body": "Scala is a general-purpose, type-safe Java virtual machine language that combines the best oop and functional programming languages into one special high language. Scala is ideal for reducing and removing bugs in large, complex applications. It supports both object-oriented and functional programming.",
+      "pic": "https://nattasit0123.github.io/pic/scala.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "SQL",
+      "body": "SQL is a standard database query language. It is used to access and manipulate data in databases. SQL is a declarative language that specifies the desired results, but not the steps to achieve those results. SQL is a powerful tool for accessing and manipulating data, and it is the world's most widely used database query language.",
+      "pic": "https://nattasit0123.github.io/pic/sql.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "HTML ",
+      "body": "HTML(HyperText Markup Language) is the standard language for creating web pages and applications. HTML is used to create web pages. You can use HTML to add images, links, and other types of content to your web page. HTML is a simple programming language; you don't need to know much about it to create a basic web page.",
+      "pic": "https://nattasit0123.github.io/pic/html.png"
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "CSS ",
+      "body": "CSS (Cascading Style Sheets) is a style sheet language used to describe how a page that was produced in a markup language is presented. A style sheet, which is a set of rules for web browsers, can control an HTML or XML.",
+      "pic": "https://nattasit0123.github.io/pic/css.png"
+    }
 ]
